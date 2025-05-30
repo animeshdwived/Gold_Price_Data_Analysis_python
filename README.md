@@ -1,4 +1,4 @@
-![Screenshot 2025-05-30 124222](https://github.com/user-attachments/assets/9abdb888-cfa3-4f89-b0d2-a042ccb89669)# Gold Prices Data Scraping and Analysis Python
+# Gold Prices Data Scraping and Analysis Python
 
 This project aims to analyze gold prices across various cities and states using data collected from the RapidAPI Gold Price API. The project spans the following key components:
 
