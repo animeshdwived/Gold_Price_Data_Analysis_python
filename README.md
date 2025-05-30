@@ -25,7 +25,8 @@ City with lowest price 24k-Car-Nicobar 70200
 Average_24K 70330.54
 Average_22K 65651.22
 ![Screenshot 2025-05-30 124222](https://github.com/user-attachments/assets/6e585ede-7803-46d1-8eab-84c6160a1a86)
-![Screenshot 2025-05-30 124245](https://github.com/user-attachments/assets/30f80bff-5e6a-431f-9d84-ea50a0c77c2c)
+![Screenshot 2025-05-30 150619](https://github.com/user-attachments/assets/633cd43d-4265-44c2-9d09-d3264cc00fdd)
+
 
 # Applications
 This project can be used by investors, analysts, and researchers who are intrested in understanding gold price trends and making data-driven decisions. It can also serve as a foundation for more advanced analyses, such as predicting futur price movements based on historical trends.
